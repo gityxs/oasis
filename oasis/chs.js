@@ -111,7 +111,7 @@ var cnItems = {
     "Sand Pit": "沙坑",
     "Scavenger": "拾荒者",
     "Spent resources will be lost": "消耗的资源将会丢失",
-    "Supports 1 Knapper": "支持 1 名敲击手",
+    "Supports 1 Knapper": "支持 1 名碎石者",
     "Will help with sand removal duties": "将帮助清除沙子",
     "Will Require:": "将需要：",
     "Wood": "木头",
