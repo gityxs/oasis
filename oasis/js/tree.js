@@ -35,7 +35,7 @@ addLayer("tree-tab", {
             canClick() { return true },
             onClick() {
                 if (options.newGameConfirmation) {
-                    if (confirm("Are you sure you want to start a new game?\nYour prior progress will provide a research bonus in your next run"))
+                    if (confirm("您确定要开始新游戏吗？\n您之前的进度将为您下次运行提供研究奖励"))
                         ruin()
                 }
                 else ruin()
