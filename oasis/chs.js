@@ -224,7 +224,7 @@ var cnItems = {
     "Logger": "伐木工",
     "Supports 1 Shovelers": "支持 1 个铲车",
     "Tear down the Warehouse": "拆掉仓库",
-    "": "",
+    "Fragments of walls show this structure must have been quite large": "墙壁的碎片表明这个结构一定非常大",
     "": "",
     "": "",
     "": "",
