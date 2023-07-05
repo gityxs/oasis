@@ -217,7 +217,7 @@ var cnItems = {
     "While the sparse cacti don't seem to need much,": "虽然稀疏的仙人掌看似不需要太多，",
     "With the oasis becoming cluttered,": "随着绿洲变得混乱，",
     "Writing": "写作",
-    "": "",
+    "Dust and sand swirl in the air, carried by strong winds from the east": "东风吹来，灰尘和沙子在空气中旋转",
     "": "",
     "": "",
     "": "",
