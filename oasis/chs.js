@@ -244,7 +244,7 @@ var cnItems = {
     "The Modding Tree": "模组树",
     "The Prestige Tree made by Jacorb and Aarex": "Jacorb 和 Aarex 制作的声望树",
     "Whoever was here before must have dug out a lot of material": "以前来过这里的人一定挖出了很多材料",
-    "": "",
+    "A dust storm hangs over the oasis, blotting out the sun and bringing sand in from the south": "沙尘暴笼罩着绿洲，遮挡了阳光，并从南方带来了沙子",
     "": "",
     "": "",
     "": "",
